@@ -1,7 +1,7 @@
 {
   "name": "mern-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "React and GraphQL based social/blog site",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobalt88/deep-thoughts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cobalt88/deep-thoughts/issues"
+  },
+  "homepage": "https://github.com/cobalt88/deep-thoughts#readme"
 }
